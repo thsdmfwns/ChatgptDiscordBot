@@ -4,7 +4,14 @@
     <projectFile>ChatBot/ChatBot.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f11300-b777-48d4-a5ac-2ac6dd4f08d3" name="Changes" comment="" />
+    <list default="true" id="78f11300-b777-48d4-a5ac-2ac6dd4f08d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ChatBot/Modals/GptDraw.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatBot/Modules/ModalModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatBot/Modules/ModalModule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatBot/Modules/SlashModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatBot/Modules/SlashModule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatBot/Services/IOpenAi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatBot/Services/IOpenAi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatBot/Services/OpenAi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatBot/Services/OpenAi.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/mt/nvme1n1p2/ChatBot",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/mt/nvme1n1p2/ChatBot&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/son/.config/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
-      "/home/son/.config/JetBrains/Rider2022.3/resharper-host/SourcesCache",
-      "/home/son/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/son/.config/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/home/son/.config/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/home/son/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.ChatBot">
     <configuration name="ChatBot" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -87,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681719933446</updated>
       <workItem from="1681719934560" duration="16632000" />
+      <workItem from="1681807295594" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1681737194924</created>
